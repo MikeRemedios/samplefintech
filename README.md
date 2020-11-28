@@ -1,6 +1,6 @@
 # H1
 
-![alt text](https://github.com/MikeRemedios/blob/master/pepehands.png?raw=true "PepeHands")
+![alt text](resources/images/pepehands.png "PepeHands")
 
 ## H2
 
